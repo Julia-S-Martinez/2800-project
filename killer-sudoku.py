@@ -4,15 +4,6 @@ import json
 from z3 import *
 import argparse
 
-# TODO: *take input file
-#       *automate box creation
-#       *automate sum rules
-#       *print solved board
-#       *README with setup instructions
-#       *error handling
-#       *tests
-#           *break up code into methods
-#           *add json examples for different sizes and unsat boards
 
 """
 -----------
